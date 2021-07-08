@@ -29,7 +29,7 @@ Rythme : 2 jours à l’école (lundi et mardi) et 3 jours en entreprise (Mercre
 
 <!--
 ## 📈 Stats :
-![GitHub Stats](link)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Herbet&show_icons=true)
 
 In process... ⚙️🔧🔨
 - 🔭 I’m currently working on ...

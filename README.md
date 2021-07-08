@@ -1,4 +1,4 @@
-# Yo, bienvenu sur mon Github! 👋
+# Yo, bienvenue sur mon Github! 👋
 
 ### 😃   Moi c'est Tony et je suis développeur web et web mobile
 ### 🤝 Pour me contacter [![My Gmail](https://img.shields.io/badge/Email%20-000000.svg?style=plastic&logo=Gmail)](herbet.le.faucheur.tony@gmail.com) [![My LinkedIn profil](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=plastic&logo=LinkedIn)](https://www.linkedin.com/in/tony-herbet-le-faucheur/)

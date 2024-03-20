@@ -2,11 +2,12 @@
 
 ### 😃   Moi c'est Tony et je suis développeur web et web mobile avec un gros penchant pour JavaScript
 ### 🤝 Pour me contacter [![My Gmail](https://img.shields.io/badge/Email%20-000000.svg?style=plastic&logo=Gmail)](herbet.le.faucheur.tony@gmail.com)
+### 💻 Mon [Portfolio](https://www.thlf.dev/)
 
 *****************
 
-- 👷 Je travail en ce moment sur : Mon portfolio
-- 🔎 Je recherche : Un CDI en full remote
+- 👷 Je travail en ce moment sur : Kidiparc et SOS : Save Our Storage
+- 🔎 Je recherche : Un CDI ayant du remote et si possible en full remote
 
 *****************
 
@@ -34,6 +35,7 @@
 ![stack MacOs](https://img.shields.io/badge/MacOs-000000.svg?style=plastic&logo=MacOs) ![stack Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=Linux&logoColor=black) ![stack Windows10](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows)
 
 <!--
+preview logo https://github.com/alexandresanlim/Badges4-README.md-Profile
 ## 📈 Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tony-Herbet&show_icons=true)
 
